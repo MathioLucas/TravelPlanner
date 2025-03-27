@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "Paris",
+    "location": "France",
+    "weather": "Mild",
+    "attractions": "Eiffel Tower,Louvre Museum,Notre-Dame Cathedral"
+  },
+  {
+    "id": "2",
+    "name": "Tokyo",
+    "location": "Japan",
+    "weather": "Cool",
+    "attractions": "Shibuya Crossing,Tokyo Tower,Senso-ji Temple"
+  },
+  {
+    "id": "3",
+    "name": "New York",
+    "location": "USA",
+    "weather": "Variable",
+    "attractions": "Statue of Liberty,Central Park,Times Square"
+  }
+]
